@@ -1,0 +1,17 @@
+c:\users\how30013\documents\visual studio 2012\Projects\Clobber\Clobber\bin\Debug\Clobber.exe.config
+c:\users\how30013\documents\visual studio 2012\Projects\Clobber\Clobber\obj\Debug\ClobberGUI.Form1.resources
+c:\users\how30013\documents\visual studio 2012\Projects\Clobber\Clobber\obj\Debug\Clobber.Properties.Resources.resources
+c:\users\how30013\documents\visual studio 2012\Projects\Clobber\Clobber\obj\Debug\Clobber.csproj.GenerateResource.Cache
+c:\users\how30013\documents\visual studio 2012\Projects\Clobber\Clobber\bin\Debug\Clobber.exe
+c:\users\how30013\documents\visual studio 2012\Projects\Clobber\Clobber\bin\Debug\Clobber.pdb
+c:\users\how30013\documents\visual studio 2012\Projects\Clobber\Clobber\obj\Debug\Clobber.exe
+c:\users\how30013\documents\visual studio 2012\Projects\Clobber\Clobber\obj\Debug\Clobber.pdb
+I:\clobberproj\Clobber\bin\Debug\Clobber.exe.config
+I:\clobberproj\Clobber\obj\Debug\Clobber.exe
+I:\clobberproj\Clobber\obj\Debug\Clobber.pdb
+I:\clobberproj\Clobber\bin\Debug\Clobber.exe
+I:\clobberproj\Clobber\bin\Debug\Clobber.pdb
+I:\clobberproj\Clobber\obj\Debug\Clobber.csprojResolveAssemblyReference.cache
+I:\clobberproj\Clobber\obj\Debug\ClobberGUI.Form1.resources
+I:\clobberproj\Clobber\obj\Debug\Clobber.Properties.Resources.resources
+I:\clobberproj\Clobber\obj\Debug\Clobber.csproj.GenerateResource.Cache
